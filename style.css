@@ -1,0 +1,37 @@
+/* font family  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* header section  */
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-color{
+    background-color: #264653;
+}
+.font{
+    font-size: 14px;
+    
+}
+.orange-color-btn{
+    background-color: #E76F51 !important;
+}
+.orange-color{
+    color: #E77C40;
+}
+.client-img img{
+    width: 149px;
+    height: 149px;
+    margin: 46px 103px;
+}
+.fas {
+    color: #E77C40;
+}
+.far {
+    color: #E77C40;
+}
+.question-img img{
+    width: 380px;
+    height: 380px;
+   
+}
